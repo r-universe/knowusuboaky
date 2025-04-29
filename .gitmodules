@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "LLMAgentR"]
+	path = LLMAgentR
+	url = https://github.com/knowusuboaky/llmagentr
 [submodule "RAGFlowChainR"]
 	path = RAGFlowChainR
 	url = https://github.com/knowusuboaky/ragflowchainr
