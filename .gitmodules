@@ -8,6 +8,9 @@
 [submodule "RAGFlowChainR"]
 	path = RAGFlowChainR
 	url = https://github.com/knowusuboaky/ragflowchainr
+[submodule "VectrixDB"]
+	path = VectrixDB
+	url = https://github.com/knowusuboaky/vectrixdb-r
 [submodule "chatLLM"]
 	path = chatLLM
 	url = https://github.com/knowusuboaky/chatllm
